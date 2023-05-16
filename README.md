@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Viktoriia Lavrukhina
 
-I'm a FrontEnd Developer. I like to write clean code and see the result.
-
 ### Skills and Tools:
 
 <div align="left">
